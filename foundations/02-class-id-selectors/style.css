@@ -1,0 +1,19 @@
+.odd {
+    background-color: #f55676;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#one {
+    color: #56adf5;
+    font-size: 36px;
+}
+
+#two {
+    background-color: #95e6a4;
+    font-size: 24px;
+    font-weight: bold;
+}
